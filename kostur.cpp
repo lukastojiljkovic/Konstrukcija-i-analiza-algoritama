@@ -13,6 +13,7 @@
 #include <numeric>
 #include <cstring>
 #include <functional>
+#include <cstdlib>
 using namespace std;
 
 int main(int argc, char const *argv[]) {
